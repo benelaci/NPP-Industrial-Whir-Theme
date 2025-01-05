@@ -1,6 +1,6 @@
 # Industrial Whir ▪ Theme for Notepad++
 
-![Industrial Whir theme for Notepad++, example 1](https://i.ibb.co/HN8C6Vt/Industrial-Whir-example-1.png)
+![Industrial Whir theme for Notepad++, example 1](https://i.ibb.co/HC8XV57/Industrial-Whir-example-1.png)
 ![Industrial Whir theme for Notepad++, example 2](https://i.ibb.co/kHxG1JV/Industrial-Whir-example-2.png)
 ![Industrial Whir theme for Notepad++, example 3](https://i.ibb.co/717dSCF/Industrial-Whir-example-3.png)
 
@@ -40,6 +40,7 @@ Install the font files in the *fonts* folder in any of the following ways:
 ## Ligatures
 
 JetBrains Mono uses ligatures, if you want those, enable DirectWrite. (*Settings* -> *Misc* -> [x] *use DirectWrite*)
+
 ![direct write on](https://i.ibb.co/hgvbD7n/direct-Write.png)
 
 # Setting up Markdown
