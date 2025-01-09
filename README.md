@@ -1,8 +1,8 @@
 # Industrial Whir ▪ Theme for Notepad++
 
-![Industrial Whir theme for Notepad++, example 1](https://i.ibb.co/HC8XV57/Industrial-Whir-example-1.png)
+![Industrial Whir theme for Notepad++, example 1](https://i.ibb.co/FqWywhj/Industrial-Whir-example-1.png)
 ![Industrial Whir theme for Notepad++, example 2](https://i.ibb.co/kHxG1JV/Industrial-Whir-example-2.png)
-![Industrial Whir theme for Notepad++, example 3](https://i.ibb.co/717dSCF/Industrial-Whir-example-3.png)
+![Industrial Whir theme for Notepad++, example 3](https://i.ibb.co/sPzgHJ7/Industrial-Whir-example-3.png)
 
 # Description
 
