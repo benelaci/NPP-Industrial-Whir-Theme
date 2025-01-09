@@ -2,9 +2,9 @@
 <!--
 Notepad++ Custom Style
 
-  Style name:   Industrial Whire
+  Style name:   Industrial Whir
   Author:       Laszlo Bene
-  Date:         2025-01-05 (Last update: 2025-01-05)
+  Date:         2025-01-05 (Last update: 2025-01-09)
   License:      MIT - https://choosealicense.com/licenses/mit/
 
   Description:  Industrial colors, adjusted in great detail, creating a powerful
@@ -784,10 +784,10 @@ Notepad++ Custom Style
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="B03F3E" fgColor="C04080"></WidgetStyle>
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC"></WidgetStyle>
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435"></WidgetStyle>
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="7E8587" bgColor="383F42"></WidgetStyle>
-        <WidgetStyle name="Fold" styleID="0" fgColor="4D5354" bgColor="7E8587"></WidgetStyle>
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="80888A" bgColor="394043"></WidgetStyle>
+        <WidgetStyle name="Fold" styleID="0" fgColor="525859" bgColor="80888A"></WidgetStyle>
         <WidgetStyle name="Fold active" styleID="0" fgColor="8B4C31"></WidgetStyle>
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="485052" bgColor="2A3134"></WidgetStyle>
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="4A5254" bgColor="2B3236"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="5D6161" bgColor="3476A3"></WidgetStyle>
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="56676D" fgColor="222222"></WidgetStyle>
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="F94B0D" fgColor="FF4D0D"></WidgetStyle>
