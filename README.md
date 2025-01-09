@@ -6,7 +6,7 @@
 
 # Description
 
-Industrial colors, adjusted in great detail, creating a powerful industrial impression, as much as a color scheme can. It's easy on the eye, the syntax highlights are well distinguishable, and is readable even when you switch back and forth between the editor and a white-background website. All while preserving the monotonous grayish touch.
+Industrial colors, adjusted in great detail, creating a powerful industrial impression, as much as a color scheme can. It's easy on the eye, the syntax highlights are distinguishable enough, and is readable even when you switch back and forth between the editor and a white-background website. All while preserving the monotonous grayish style.
 
 ### Supported languages
 

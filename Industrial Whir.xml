@@ -3,16 +3,16 @@
 Notepad++ Custom Style
 
   Style name:   Industrial Whir
-  Author:       Laszlo Bene
+  Author:       Laci Bene
   Date:         2025-01-05 (Last update: 2025-01-09)
   License:      MIT - https://choosealicense.com/licenses/mit/
 
   Description:  Industrial colors, adjusted in great detail, creating a powerful
-                industrial impression, as much as a colour scheme can do that.
-                It's easy on the eye, the syntax highlights are well distinctive,
-                and is clearly readable even when you switch back and forth
-                between the editor and a white-background website. All while
-                preserving the monotonous grayish touch.
+                industrial impression, as much as a color scheme can. It's easy
+                on the eye, the syntax highlights are distinguishable enough,
+                and is readable even when you switch back and forth between
+                the editor and a white-background website. All while preserving
+                the monotonous grayish style.
 
   Languages:    Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java,
                 JavaScript, Lua, Markdown*, PHP, Python, Ruby, SQL, XML, YAML
