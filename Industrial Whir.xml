@@ -775,21 +775,21 @@ Notepad++ Custom Style
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="E1E6E6" bgColor="323739" fontName="IBM Plex Sans" fontSize="12"></WidgetStyle>
+        <WidgetStyle name="Global override" styleID="0" fgColor="E1E6E6" bgColor="323739" fontName="M PLUS 1 Code" fontSize="11"></WidgetStyle>
         <WidgetStyle name="Default Style" styleID="32" fgColor="E1E6E6" bgColor="323739" fontName="JetBrains Mono" fontSize="11"></WidgetStyle>
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="495152" bgColor="323739"></WidgetStyle>
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFDA24" bgColor="807F78"></WidgetStyle>
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FB0000" bgColor="323739"></WidgetStyle>
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="454243"></WidgetStyle>
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="B03F3E" fgColor="C04080"></WidgetStyle>
-        <WidgetStyle name="Caret colour" styleID="2069" fgColor="C1CBD2" bgColor="6699CC"></WidgetStyle>
+        <WidgetStyle name="Caret colour" styleID="2069" fgColor="DFE1F7" bgColor="6699CC"></WidgetStyle>
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435"></WidgetStyle>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="80888A" bgColor="394043"></WidgetStyle>
         <WidgetStyle name="Fold" styleID="0" fgColor="525859" bgColor="80888A"></WidgetStyle>
         <WidgetStyle name="Fold active" styleID="0" fgColor="8B4C31"></WidgetStyle>
         <WidgetStyle name="Fold margin" styleID="0" fgColor="4A5254" bgColor="2B3236"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="5D6161" bgColor="3476A3"></WidgetStyle>
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="56676D" fgColor="222222"></WidgetStyle>
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="9EA0A1" fgColor="222222"></WidgetStyle>
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="F94B0D" fgColor="FF4D0D"></WidgetStyle>
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00659B" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00880B" fgColor="E1E6E6"></WidgetStyle>
@@ -806,10 +806,11 @@ Notepad++ Custom Style
         <WidgetStyle name="EOL custom color" styleID="0" fgColor="5D6161"></WidgetStyle>
         <WidgetStyle name="Non-printing characters custom color" styleID="0" fgColor="5D6161"></WidgetStyle>
         <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="B63E3C"></WidgetStyle>
-        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="C1CBD2"></WidgetStyle>
-        <WidgetStyle name="Change History modified" styleID="0" fgColor="FF8000" bgColor="FF8000"></WidgetStyle>
-        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="A0C000" bgColor="A0C000"></WidgetStyle>
-        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="40A0BF" bgColor="40A0BF"></WidgetStyle>
-        <WidgetStyle name="Change History saved" styleID="0" fgColor="00A000" bgColor="00A000"></WidgetStyle>
+        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="DFE1F7"></WidgetStyle>
+        <WidgetStyle name="Change History margin" styleID="0" bgColor="394043"></WidgetStyle>
+        <WidgetStyle name="Change History modified" styleID="0" fgColor="D07822" bgColor="D07822"></WidgetStyle>
+        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="99B613" bgColor="99B613"></WidgetStyle>
+        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="32ADB8" bgColor="32ADB8"></WidgetStyle>
+        <WidgetStyle name="Change History saved" styleID="0" fgColor="5C9413" bgColor="5C9413"></WidgetStyle>
     </GlobalStyles>
 </NotepadPlus>
