@@ -775,7 +775,7 @@ Notepad++ Custom Style
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="E1E6E6" bgColor="323739" fontName="M PLUS 1 Code" fontSize="11"></WidgetStyle>
+        <WidgetStyle name="Global override" styleID="0" fgColor="E1E6E6" bgColor="323739" fontName="JetBrains Mono" fontSize="11"></WidgetStyle>
         <WidgetStyle name="Default Style" styleID="32" fgColor="E1E6E6" bgColor="323739" fontName="JetBrains Mono" fontSize="11"></WidgetStyle>
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="495152" bgColor="323739"></WidgetStyle>
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFDA24" bgColor="807F78"></WidgetStyle>
@@ -797,7 +797,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8A0B0B" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80"></WidgetStyle>
-        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="C95644" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="5a87a9" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="7A7C7D" fgColor="FFCAB0"></WidgetStyle>
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAA405" bgColor="8000FF"></WidgetStyle>
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="008000"></WidgetStyle>
