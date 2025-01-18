@@ -4,8 +4,8 @@ Notepad++ Custom Style
 
   Style name:   Industrial Whir
   Author:       Laci Bene
-  Date:         2025-01-05 (Last update: 2025-01-09)
-  License:      MIT - https://choosealicense.com/licenses/mit/
+  Date:         2025-01-05 (Last update: 2025-01-18)
+  License:      GPL-3.0 - https://choosealicense.com/licenses/gpl-3.0/
 
   Description:  Industrial colors, adjusted in great detail, creating a powerful
                 industrial impression, as much as a color scheme can. It's easy
@@ -790,12 +790,12 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold margin" styleID="0" fgColor="4A5254" bgColor="2B3236"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="5D6161" bgColor="3476A3"></WidgetStyle>
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="9EA0A1" fgColor="222222"></WidgetStyle>
-        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="F94B0D" fgColor="FF4D0D"></WidgetStyle>
-        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00659B" fgColor="E1E6E6"></WidgetStyle>
-        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00880B" fgColor="E1E6E6"></WidgetStyle>
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="A6AA00" fgColor="E1E6E6"></WidgetStyle>
-        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8A0B0B" fgColor="E1E6E6"></WidgetStyle>
-        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="ff4512" fgColor="FF4D0D"></WidgetStyle>
+        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00E0FF" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF8000" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFE000" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="B070FF" fgColor="E1E6E6"></WidgetStyle>
+        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="60D020" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80"></WidgetStyle>
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="5A87A9" fgColor="E1E6E6"></WidgetStyle>
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="7A7C7D" fgColor="FFCAB0"></WidgetStyle>
